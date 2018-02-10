@@ -1,7 +1,10 @@
 # Pera Proxy Configure Script
 Here are two VBS scripts to turn on and off Pera Proxy
 
+
 Click on 'proxyOn.vbs' file to turn on the proxy server, cachex.pdn.ac.lk in port 3128
+
+
 Click on 'proxyOff.vbs' file to turn off the proxy configuration
 
 
